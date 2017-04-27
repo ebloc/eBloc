@@ -24,6 +24,8 @@ https://github.com/ebloc/eBloc/issues/1.
 Please follow: https://github.com/ebloc/eBloc/issues/2
 
 ## Community Forums
-To join EBloc community forums, first, create an account at Ryver: https://signup.ryver.com .
+- To join EBloc community forums, first, create an account at Ryver: https://signup.ryver.com .
+- You can then login to the forums at : http://ebloc.ryver.com .
 
-You can then login to the forums at : http://ebloc.ryver.com .
+## Contact
+- Chat in [ebloc channel on Gitter](https://gitter.im/ebloc).
