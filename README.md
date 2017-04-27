@@ -6,8 +6,10 @@ A [bloc](https://www.merriam-webster.com/dictionary/bloc) is defined as a group 
 
 ## How to Connect and use eBloc Private Blockchain
 
-With [Parity](https://github.com/paritytech/parity) please follow:
-https://github.com/ebloc/eBloc/issues/7. To start miner using Parity please follow: https://github.com/ebloc/eBloc/issues/8.
+Using [Parity](https://github.com/paritytech/parity) please follow:
+https://github.com/ebloc/eBloc/issues/7. 
 
-With [geth](https://github.com/ethereum/go-ethereum) please follow:
+In order to start miner using `Parity` please follow: https://github.com/ebloc/eBloc/issues/8.
+
+Using [geth](https://github.com/ethereum/go-ethereum) please follow:
 https://github.com/ebloc/eBloc/issues/1. 
