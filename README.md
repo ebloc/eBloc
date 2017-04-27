@@ -22,6 +22,9 @@ In order to start miner using `Parity` please follow: https://github.com/ebloc/e
 - Using [geth](https://github.com/ethereum/go-ethereum) please follow:
 https://github.com/ebloc/eBloc/issues/1. 
 
+## How to see the status of your node on [eBloc Network Status](http://ebloc.cmpe.boun.edu.tr:3001)
+Please follow: https://github.com/ebloc/eBloc/issues/2
+
 ## Community Forums
 To join EBloc community forums, first, create an account at Ryver: https://signup.ryver.com .
 
