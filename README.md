@@ -17,8 +17,6 @@ https://github.com/ebloc/eBloc/issues/7.
 
 In order to start miner using `Parity` please follow: https://github.com/ebloc/eBloc/issues/8.
 
-----
-
 - Using [geth](https://github.com/ethereum/go-ethereum) please follow:
 https://github.com/ebloc/eBloc/issues/1. 
 
