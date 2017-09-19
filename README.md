@@ -17,12 +17,15 @@ https://github.com/ebloc/eBloc/issues/7.
 
 In order to start miner using `Parity` please follow: https://github.com/ebloc/eBloc/issues/8.
 
-----
-
 - Using [geth](https://github.com/ethereum/go-ethereum) please follow:
 https://github.com/ebloc/eBloc/issues/1. 
 
-## Community Forums
-To join EBloc community forums, first, create an account at Ryver: https://signup.ryver.com .
+## How to see the status of your node on [eBloc Network Status](http://ebloc.cmpe.boun.edu.tr:3001)
+Please follow: https://github.com/ebloc/eBloc/issues/2
 
-You can then login to the forums at : http://ebloc.ryver.com .
+## Community Forums
+- To join EBloc community forums, first, create an account at Ryver: https://signup.ryver.com .
+- You can then login to the forums at : http://ebloc.ryver.com .
+
+## Contact
+- Chat in [ebloc channel on Gitter](https://gitter.im/ebloc).
