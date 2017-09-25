@@ -1,31 +1,26 @@
-# eBloc
-E-Science Blockchain InfrastructurePrivate Blockchain.
+# [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
 
-**Website:** http://ebloc.cmpe.boun.edu.tr  or http://ebloc.org .
+[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
 
-## About eBloc
-A [bloc](https://www.merriam-webster.com/dictionary/bloc) is defined as a group of people or countries that are connected by a treaty or agreement or by common goals. eBloc is a blockchain based infrastructure that will be built on top of [Ethereum](https://www.ethereum.org) smart contracts platform. [IPFS](https://ipfs.io) distributed file system platform may be used to store large data. eBloc will be used to support e-Science related academic and research activities. We started our eBloc efforts in June 2016. We invite other institutions for collaboration in building eBloc . The following is a sample applications for which we plan to use the eBlock infrastructure. The infrastructure can, of course, be used for other applications also.
+## Getting Started
 
-- [Network Status](http://ebloc.cmpe.boun.edu.tr:3001)
-- [eBlocXplore](http://ebloc.cmpe.boun.edu.tr:8000/blocxplore4.html)
-- [eBlocWallet](http://ebloc.cmpe.boun.edu.tr:3002)
+To use this theme, choose one of the following options to get started:
+* Download the latest release on Start Bootstrap
+* Fork this repository on GitHub
 
-## How to Connect and use eBloc Private Blockchain
+## Bugs and Issues
 
-- Using [Parity](https://github.com/paritytech/parity) please follow:
-https://github.com/ebloc/eBloc/issues/7. 
+Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
 
-In order to start miner using `Parity` please follow: https://github.com/ebloc/eBloc/issues/8.
+## Creator
 
-- Using [geth](https://github.com/ethereum/go-ethereum) please follow:
-https://github.com/ebloc/eBloc/issues/1. 
+Start Bootstrap was created by and is maintained by **David Miller**, Managing Partner at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
-## How to see the status of your node on [eBloc Network Status](http://ebloc.cmpe.boun.edu.tr:3001)
-Please follow: https://github.com/ebloc/eBloc/issues/2
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
-## Community Forums
-- To join EBloc community forums, first, create an account at Ryver: https://signup.ryver.com .
-- You can then login to the forums at : http://ebloc.ryver.com .
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-## Contact
-- Chat in [ebloc channel on Gitter](https://gitter.im/ebloc).
+## Copyright and License
+
+Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-agency/blob/gh-pages/LICENSE) license.
