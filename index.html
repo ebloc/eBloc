@@ -2,46 +2,42 @@
 <html lang="en">
 
 <head>
+    <style>
+      .dropbtn {
+      background-color: transparent;
+      color: white;
+      padding: 14.6px;
+      font-size: 15px;
+      border: none;
+      }
 
-  <style>
-    .dropbtn {
-    background-color: transparent;
-    color: white;
-    padding: 14.6px;
-    font-size: 15px;
-    border: none;
-}
+      .dropdown {
+      position: relative;
+      display: inline-block;
+      }
 
-.dropdown {
-    position: relative;
-    display: inline-block;
-}
+      .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #222222;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+      }
 
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #222222;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-}
+      .dropdown-content a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      }
 
-.dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-}
-
-.dropdown-content a:hover {background-color: #aaa;}
-
-.dropdown:hover .dropdown-content {display: block;}
-
-    <!-- .dropdown:hover .dropbtn {background-color: #3e8e41;} -->
-.dropdown:hover .dropbtn {color: #FFCA62;}
-.dropdown:hover .dropbtn {background-color: transparent;}
-
-  </style>
+      .dropdown-content a:hover {background-color: #aaa;}
+      .dropdown:hover .dropdown-content {display: block;}
+      <!-- .dropdown:hover .dropbtn {background-color: #3e8e41;} -->
+      .dropdown:hover .dropbtn {color: #FFCA62;}
+      .dropdown:hover .dropbtn {background-color: transparent;}
+    </style>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -86,9 +82,7 @@
                     <span class="icon-bar"></span>
                 </button>
 
-                <a class="navbar-brand page-scroll"
-                href="#page-top"> eBloc
-                </a>
+                <a class="navbar-brand page-scroll" href="#page-top"> eBloc </a>
 
             </div>
 
@@ -98,12 +92,7 @@
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
-                    <!--
-                    <li>
-                       <a class="page-scroll"
-                       href="#about"><font face="verdana" color=#FFCA62 ><b>eBloc</b></font></a>
-                    </li>
-                    -->
+
                     <li>
                        <a class="page-scroll" href="#about"><font face="verdana"><b>About</b></font></a>
                     </li>
@@ -111,36 +100,30 @@
                         <a class="page-scroll" href="#team"><font face="verdana"><b>Team</b></font></a>
                     </li>
                     <li>
-  <div class="dropdown">
-    <button class="dropbtn"
-    onclick="myFunction()"> <font face="verdana"><b>NETWORK
-    STATUS</b> </font>
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content" id="myDropdown">
-      <a href="http://ebloc.cmpe.boun.edu.tr:3015"><font face="verdana"><b>eBloc_POA</b></font></a>
-      <a href="http://ebloc.cmpe.boun.edu.tr:3001"><font face="verdana"><b>eBloc_POW</b></font></a>
-    </div>
-</li>
-<!--
+                      <div class="dropdown">
+                        <button class="dropbtn"
+                                onclick="myFunction()"> <font face="verdana"><b>NETWORK STATUS</b> </font>
+                          <i class="fa fa-caret-down"></i>
+                        </button>
+                        <div class="dropdown-content" id="myDropdown">
+                          <a href="http://ebloc.cmpe.boun.edu.tr:3015"><font face="verdana"><b>eBloc_POA</b></font></a>
+                          <a href="http://ebloc.cmpe.boun.edu.tr:3001"><font face="verdana"><b>eBloc_POW</b></font></a>
+                        </div>
+                    </li>
+
                     <li>
                         <a class="page-scroll"
-                        href="http://ebloc.cmpe.boun.edu.tr:3001"><b>Network
-                        Status eBlocPOW</b></a>
-                    </li>
- -->
-                    <li>
-                        <a class="page-scroll" href="http://ebloc.cmpe.boun.edu.tr:8000/blocxplore4.html"><font face="verdana"><b>eBlocXplore</b></font></a>
+                        href="http://ebloc.cmpe.boun.edu.tr:8000/blocxplore4.html"><font face="verdana"><b>eBlocXplore</b></font></a>
                     </li>
                     <li>
-                      <a class="page-scroll" href="http://ebloc.cmpe.boun.edu.tr:3002/"><font face="verdana"><b>eBlocWallet</b></font></a>
+                      <a class="page-scroll"
+                      href="http://ebloc.cmpe.boun.edu.tr:3002/"><font face="verdana"><b>eBlocWallet</b></font></a>
                     </li>
 		    <li>
                         <a class="page-scroll" href="#community" ><font face="verdana"><b>Community Forums</b></font></a>
                     </li>
 
-
-</ul>
+                </ul>
             </div>
             <!-- /.navbar-collapse -->
         </div>
