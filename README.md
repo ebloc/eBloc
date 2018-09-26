@@ -11,19 +11,15 @@ A [bloc](https://www.merriam-webster.com/dictionary/bloc) is defined as a group 
 - [eBlocWallet](http://ebloc.cmpe.boun.edu.tr:3002) 
  
 ## How to Connect and use eBloc Private Blockchain 
+
+- Connect into [eBlocPOA](https://github.com/ebloc/eblocPOA)
+- Connect into [eBlocPOW](https://github.com/ebloc/eblocPOW)
  
-- Using [Parity](https://github.com/paritytech/parity) please follow: 
-https://github.com/ebloc/eBloc/issues/7.  
+## How to see the status of your node on [eBloc Network Status](http://ebloc.cmpe.boun.edu.tr:3015) 
+
+- [eBlocPOA](http://ebloc.cmpe.boun.edu.tr:3015)
+- [eBlocPOW](http://ebloc.cmpe.boun.edu.tr:3001)
  
-- Using [geth](https://github.com/ethereum/go-ethereum) please follow: 
-https://github.com/ebloc/eBloc/issues/1.  
- 
-## How to see the status of your node on [eBloc Network Status](http://ebloc.cmpe.boun.edu.tr:3001) 
-Please follow: https://github.com/ebloc/eBloc/issues/2 
- 
-## Community Forums 
-- To join EBloc community forums, first, create an account at Ryver: https://signup.ryver.com . 
-- You can then login to the forums at : http://ebloc.ryver.com . 
- 
-## Contact 
-- Chat in [ebloc channel on Gitter](https://gitter.im/ebloc). 
+## Community  
+- Chat in [eBloc channel on Gitter](https://gitter.im/ebloc). 
+
