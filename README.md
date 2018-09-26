@@ -20,5 +20,5 @@ A [bloc](https://www.merriam-webster.com/dictionary/bloc) is defined as a group 
 - [eBlocPOW](http://ebloc.cmpe.boun.edu.tr:3001)
  
 ## Community  
-- Chat in [eBloc channel on Gitter](https://gitter.im/ebloc). 
+- Chat in [eBloc channel on Gitter](https://gitter.im/eBloc/Lobby). 
 
