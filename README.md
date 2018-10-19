@@ -12,7 +12,7 @@ A [bloc](https://www.merriam-webster.com/dictionary/bloc) is defined as a group 
 ## How to Connect and use eBloc Private Blockchain 
 
 - Connect into [Ethereum based private proof-of-authority blockchain network (eBlocPOA)](https://github.com/ebloc/eBlocPOA)
-- Connect into [eBlocPOW](https://github.com/ebloc/eblocPOW)
+- Connect into [Ethereum based private proof-of-work blockchain network (eBlocPOW)](https://github.com/ebloc/eblocPOW)
  
 ## How to see the status of your node on eBloc Network Status
 
